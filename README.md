@@ -18,14 +18,6 @@ Features include:
 
 [Release Notes](RELEASE.md)
 
-## Installation
-
-
-### Android
-
-
-### iOS / iPhone
-
 
 ## Usage
 
@@ -54,7 +46,7 @@ Yes. Just log in with your primary account.
 
 #### What format do you I use to input my gamertag for PC?
 
-For PC, you must use the following format: GAMERTAG#ID. For example foo#1134.
+For PC you must enter you Steam 64 ID, which you can find in game by typing the "/id" command. You can find more information at [redrix.io/steam](https://redrix.io/steam)
 
 #### Which stats are displayed for my match history and what do they mean?
 
@@ -79,8 +71,8 @@ This error occurs when the app cannot communicate with the Destiny 2 API server,
 This error occurs when your gamertag cannot be found for the specified platform. Make sure that you:
 
 * Select the correct platform
-* If on PC, format your gamer tag using the GAMERTAG#ID format.
 * Use the correct case for your gamer tag (tags are case sensitive)
+* If on PC, make sure you are entering your Steam 64 ID and not your nickname.
 
 #### I got an "Your Bungie.net privacy settings are too restrictive." error, what should I do?
 
@@ -106,7 +98,7 @@ You may get this error is something unexpected occurs, usually a temporary issue
 
 #### I got a "Fatal error. Please restart app." error, what should I do?
 
-In general, means that something went wrong that prevents the app from running. If you hit this error, please [log an issue](https://github.com/mikechambers/redrix/issues).
+In general, means that something went wrong that prevents the app from running. If you hit this error, please [log an issue](https://github.com/redrixapp/support/issues).
 
 Potential work arounds include:
 
